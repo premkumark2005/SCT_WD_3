@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Web Application
 
-This project is part of my Skill Craft Technology internship (Task 3) and showcases a dynamic and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Players can enjoy the game by challenging a friend or playing against the computer.
+This project is a Tic Tac Toe Application that showcases a dynamic and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Players can enjoy the game by challenging a friend or playing against the computer.
 
 # Features:
 Interactive Gameplay: A 3x3 grid that responds to user clicks for a smooth experience.
